@@ -30,6 +30,7 @@ body {
 
 
 #container {
+    background-color: white;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -41,7 +42,12 @@ body {
     font-size: 20px;
 }
 
-#footer {
+#containerfooter {
+    background-color: brown;
+    width: 70%;
+    padding: 1em;
     text-align: center;
-    background-color: black;
+    margin: 0 auto;
 }
+
+   
